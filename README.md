@@ -1,6 +1,10 @@
 # AIRBNB ANALYSIS
 
-**Domain :** Travel Industry, Property management and Tourism
+NAME : Kaviya M
+
+BATCH: DW73DW74
+
+DOMAIN : DATA SCIENCE
 
 **Problem Statement :**
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
